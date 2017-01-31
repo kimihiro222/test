@@ -1,2 +1,3 @@
 hello git!
 edittest!
+追加しました
